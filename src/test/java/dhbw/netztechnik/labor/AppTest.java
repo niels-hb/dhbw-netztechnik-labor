@@ -1,0 +1,11 @@
+package dhbw.netztechnik.labor;
+
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class AppTest {
+  @Test
+  public void defaultTest() {
+    assertTrue(true);
+  }
+}
